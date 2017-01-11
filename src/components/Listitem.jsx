@@ -8,3 +8,6 @@ var ListItem React.createClass({
 		);
 	}
 });
+
+
+module.exports = ListItem;
