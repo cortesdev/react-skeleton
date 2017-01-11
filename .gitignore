@@ -43,3 +43,5 @@ Thumbs.db
 /lib/paxlife/*.pyc
 fabfile.pyc
 
+/node_modules
+node_modules
